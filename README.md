@@ -1,6 +1,6 @@
 # flex_panel(JS30-5)
 
-#學習重點
+# 學習重點
 ***
 + 了解flex grow 以及flex shrink的應用，底下的參考文章非常的棒，講得極端清楚。
 + 複習flex的使用方式。
